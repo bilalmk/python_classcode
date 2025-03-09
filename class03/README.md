@@ -2,6 +2,8 @@
 ## 🔗 [Click here to access class code](https://colab.research.google.com/drive/1qV0yypafjBqE10NMxDEXoJ4glgMc1ECM?usp=sharing)
 [https://colab.research.google.com/drive/1qV0yypafjBqE10NMxDEXoJ4glgMc1ECM?usp=sharing](https://colab.research.google.com/drive/1qV0yypafjBqE10NMxDEXoJ4glgMc1ECM?usp=sharing)
 
+---
+
 ### ✅ Assignment 1: Password Strength Meter  
 Work on the **Password Strength Meter** project from the repository:  
 🔗 [Password Strength Meter - GitHub Repo](https://github.com/panaversity/learn-modern-ai-python/tree/main/CLASS_PROJECTS/02_password_strength_meter)
@@ -40,3 +42,8 @@ Work on the **Password Strength Meter** project from the repository:
 - **Error Handling:** The program will include basic error handling to manage non-numeric input for marks and invalid choices (other than 'Y' or 'N').
 - **User Interface:** A simple text-based interface will guide the user through the data entry and report viewing process.
 - **Flexibility:** Users can input any number of students in a session, making the program suitable for batch processing at the end of program.
+
+---
+
+[Assignment submission form Link](https://forms.gle/6Jrto4gCJe4yYZtq9)
+[https://forms.gle/6Jrto4gCJe4yYZtq9]()
