@@ -1,5 +1,5 @@
-## 📌 Class 2 Code 
-# [Class Notebook](https://colab.research.google.com/drive/1TBGJEZC4WOfUYqsPwIrMgRy225-sDZBn?usp=sharing)  
+# 📌 Class 2 Code 
+## 🔗 [click here to access class code](https://colab.research.google.com/drive/1TBGJEZC4WOfUYqsPwIrMgRy225-sDZBn?usp=sharing)  
 
 ### ✅ Assignment 1: Unit Converter Project  
 Work on the Unit Converter project from the repository:  

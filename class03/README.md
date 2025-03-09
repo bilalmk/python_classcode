@@ -1,5 +1,5 @@
-## 📌 Class 3 Code 
-# [Class Notebook](https://colab.research.google.com/drive/1qV0yypafjBqE10NMxDEXoJ4glgMc1ECM?usp=sharing)
+# 📌 Class 3 Code 
+## 🔗 [click here to access class code](https://colab.research.google.com/drive/1qV0yypafjBqE10NMxDEXoJ4glgMc1ECM?usp=sharing)
 
 ### ✅ Assignment 1: Password Strength Meter  
 Work on the **Password Strength Meter** project from the repository:  

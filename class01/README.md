@@ -1,5 +1,5 @@
-## 📌 Class 1 Code 
-# [Class Notebook](https://colab.research.google.com/drive/1fDCg7k-TRsNcnZhI8Y831TCyeVWOo86J?usp=sharing)
+# 📌 Class 1 Code 
+## 🔗 [click here to access class code](https://colab.research.google.com/drive/1fDCg7k-TRsNcnZhI8Y831TCyeVWOo86J?usp=sharing)
 
 ---
 
