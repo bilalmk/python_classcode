@@ -46,4 +46,4 @@ Work on the **Password Strength Meter** project from the repository:
 ---
 
 # [Assignment submission form Link](https://forms.gle/6Jrto4gCJe4yYZtq9)
-[https://forms.gle/6Jrto4gCJe4yYZtq9]()
+[https://forms.gle/6Jrto4gCJe4yYZtq9](https://forms.gle/6Jrto4gCJe4yYZtq9)
