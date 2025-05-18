@@ -1,0 +1,38 @@
+class Animal:
+    def make_noise(self):
+        print("animal makes noise")
+
+
+class Dog(Animal):
+    def sniff(self):
+        print("Dog can sniff")
+
+    def make_noise(self):
+        print("Woof!!!")
+
+
+class Cat(Animal):
+    def climb(self):
+        print("Cat can climb trees")
+
+    def make_noise(self):
+        print("Meow!!!")
+        
+class Lion(Animal):
+    def make_noise__1(self):
+        print("Roar!!!")
+
+
+# dog = Dog()
+# cat = Cat()
+# dog.sniff()
+# dog.make_noise()
+# print("="*30)
+# cat.climb()
+# cat.make_noise()
+
+
+a: list[Animal] = [Cat(), Dog(), Lion()]
+
+for i in a:
+    i.make_noise()
