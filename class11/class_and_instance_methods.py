@@ -1,4 +1,9 @@
 class Student:
+    # 1) class variables can be accessed by the class name
+    # 2) class variables can be accessed but can not modified by the instance of the class
+    # 3) class variables are shared by all instances of the class
+    # 4) class variables are defined outside of __init__ method
+    # 5) class variables are defined inside the class but outside of any method
     internet = "Gerrys"
     cmd = "Screen"
     quarter = "q3"
@@ -6,8 +11,10 @@ class Student:
     counter = 0
 
     def __init__(self, name, roll_number):
-        # instance variables
-        # only available through instances
+        # instance variable can only accessed by the instance of the class
+        # instance variable can only be updated by the instance of the class
+        # instance variable are defined inside __init__ method
+        # class instances can only access class variables but can not modified them
         self.name = name
         self.roll_number = roll_number
         Student.counter += 1
